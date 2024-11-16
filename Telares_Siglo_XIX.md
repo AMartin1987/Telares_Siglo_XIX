@@ -53,3 +53,44 @@ Antes del telar Jacquard, los patrones complejos requerían un trabajo manual mu
 ![(Tejido de un telar de Jacquard)](https://www.mingei-project.eu/wp-content/uploads/2020/04/Silkfabrichds.jpg)
 
 *Tejido de un telar de Jacquard. Fuente: [Mingei-Project](https://www.mingei-project.eu/2020/04/02/the-story-of-jacquard-weaving/).*
+
+## Impacto en la industria textil
+
+La mecanización de los telares marcó el inicio de una nueva era para la industria textil. Los centros de producción se trasladaron del ámbito rural a las **fábricas urbanas**, que se convirtieron en el núcleo de la economía industrial. Países como Inglaterra, Francia y Alemania lideraron esta transformación, estableciendo grandes fábricas textiles que abastecían tanto los mercados locales como los internacionales.
+
+La producción en masa de telas estándar, como el algodón, fue fundamental para el comercio global del siglo XIX. Regiones como **Lancashire en Inglaterra** se especializaron en la fabricación de algodón, mientras que los avances en transporte, como los ferrocarriles y los barcos de vapor, facilitaron la exportación de textiles a gran escala.
+
+(ilustración trabajadores de la época)
+
+Sin embargo, la expansión de la industria textil también exacerbó las desigualdades. En las fábricas, las condiciones laborales eran duras: jornadas largas, salarios bajos y entornos insalubres eran comunes, especialmente para mujeres y niños, quienes constituían una parte significativa de la fuerza laboral.
+
+## Cambios sociales asociados
+
+La industrialización textil tuvo un profundo impacto en la **estructura social del siglo XIX**. La transición de la producción artesanal a la mecanizada no solo afectó a los tejedores, sino que también transformó las **relaciones laborales** y urbanizó a gran parte de la población.
+
+1.  **Desplazamiento de trabajadores rurales:**  
+    Los artesanos tradicionales, que durante generaciones habían operado telares manuales en sus hogares, fueron desplazados por la eficiencia de las fábricas. Muchos migraron a las ciudades en busca de empleo, lo que contribuyó al crecimiento urbano y al surgimiento de nuevas clases sociales, como el **proletariado industrial**.
+
+![Migración masiva de trabajadores](https://yorkshirebylines.co.uk/wp-content/uploads/2023/12/C19th-Emigrants.jpeg)
+
+*Migración masiva de trabajadores hacia Londres. Fuente: [Science Photo](https://yorkshirebylines.co.uk/society/migrations-19thcentury-britain/)*
+
+2.  **Revueltas y movimientos sociales:**  
+    El descontento causado por la mecanización llevó a movimientos como el **ludismo**, protagonizado por trabajadores que destruían máquinas en protesta por la pérdida de empleos. Aunque estas revueltas fueron reprimidas, marcaron un precedente en la lucha por los derechos laborales.
+
+![Luditas](https://images.theconversation.com/files/525490/original/file-20230510-25-vvlwmh.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip)
+
+*Grabado que ilustra una revuelta de luditas. Fuente: [The Conversation.](https://theconversation.com/whats-a-luddite-an-expert-on-technology-and-society-explains-203653)*
+
+3.  **Transformación de roles de género:**  
+    Las fábricas textiles emplearon masivamente a mujeres y niños, cambiando los roles tradicionales en el hogar. Aunque inicialmente explotados, estos grupos fueron fundamentales en la formación de **movimientos sindicales** que exigían mejores condiciones laborales.
+
+![Grabado que ilustra las protestas de trabajadores del algodón en Londres, en 1878](https://c7.alamy.com/comp/2H0N6Y4/history-of-england-19th-century-workers-movement-workers-strikes-in-the-district-of-lancashire-the-high-cost-of-basic-necessities-the-lack-of-work-business-problems-and-some-laws-that-affected-the-poorest-classes-were-the-causes-that-provoked-strikes-of-miners-and-workers-during-the-month-of-may-1878-attack-and-burning-of-the-residence-of-colonel-rayusford-jackson-in-wilpshire-the-fire-was-caused-by-cotton-workers-during-the-cotton-riots-engraving-la-ilustracin-espaola-y-americana-1878-2H0N6Y4.jpg)
+
+*Grabado que ilustra las protestas de trabajadores del algodón en Londres, en 1878. Fuente: [Alamy](https://www.alamy.com/history-of-england-19th-century-workers-movement-workers-strikes-in-the-district-of-lancashire-the-high-cost-of-basic-necessities-the-lack-of-work-business-problems-and-some-laws-that-affected-the-poorest-classes-were-the-causes-that-provoked-strikes-of-miners-and-workers-during-the-month-of-may-1878-attack-and-burning-of-the-residence-of-colonel-rayusford-jackson-in-wilpshire-the-fire-was-caused-by-cotton-workers-during-the-cotton-riots-engraving-la-ilustracin-espaola-y-americana-1878-image447936024.html).*
+
+4.  **Acceso democratizado a textiles:**  
+    Por otro lado, la industrialización también benefició a las clases populares, que por primera vez pudieron acceder a **ropa asequible**. Esto marcó un cambio en los estándares de consumo y moda, haciendo de los textiles un bien básico y no un lujo.
+![El diseñador de modas inglés Charles-Frederick-Worth, considerado el padre de la alta costura](https://fashinnovation.nyc/wp-content/uploads/2022/04/Charles-Frederick-Worth-em-seu-atelier-House-of-Worth-1858-1952-Photo-Researchgate.net_.png)
+
+*El diseñador de modas inglés Charles-Frederick-Worth, considerado el padre de la alta costura. Fuente: [Fashinnovation](https://fashinnovation.nyc/fashinnovation-industrial-revolution-fashion/)*
