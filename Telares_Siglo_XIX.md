@@ -59,3 +59,20 @@ las tarjetas perforadas. Por otro lado, su invención permitió la flexibilidad 
  tejer patrones muy complejos, como flores, figuras geométricas o incluso paisajes, en tejidos como damascos, brocados y sedas.
 
 (imagen de tejido complejo)
+
+Impacto en la industria textil
+La mecanización de los telares marcó el inicio de una nueva era para la industria textil. Los centros de producción se trasladaron del ámbito rural a las fábricas urbanas, que se convirtieron en el núcleo de la economía industrial. Países como Inglaterra, Francia y Alemania lideraron esta transformación, estableciendo grandes fábricas textiles que abastecían tanto los mercados locales como los internacionales.
+La producción en masa de telas estándar, como el algodón, fue fundamental para el comercio global del siglo XIX. Regiones como Lancashire en Inglaterra se especializaron en la fabricación de algodón, mientras que los avances en transporte, como los ferrocarriles y los barcos de vapor, facilitaron la exportación de textiles a gran escala.
+Sin embargo, la expansión de la industria textil también exacerbó las desigualdades. En las fábricas, las condiciones laborales eran duras: jornadas largas, salarios bajos y entornos insalubres eran comunes, especialmente para mujeres y niños, quienes constituían una parte significativa de la fuerza laboral.
+
+Cambios sociales asociados
+
+La industrialización textil tuvo un profundo impacto en la estructura social del siglo XIX. La transición de la producción artesanal a la mecanizada no solo afectó a los tejedores, sino que también transformó las relaciones laborales y urbanizó a gran parte de la población.
+1.	Desplazamiento de trabajadores rurales:
+Los artesanos tradicionales, que durante generaciones habían operado telares manuales en sus hogares, fueron desplazados por la eficiencia de las fábricas. Muchos migraron a las ciudades en busca de empleo, lo que contribuyó al crecimiento urbano y al surgimiento de nuevas clases sociales, como el proletariado industrial.
+2.	Revueltas y movimientos sociales:
+El descontento causado por la mecanización llevó a movimientos como el ludismo, protagonizado por trabajadores que destruían máquinas en protesta por la pérdida de empleos. Aunque estas revueltas fueron reprimidas, marcaron un precedente en la lucha por los derechos laborales.
+3.	Transformación de roles de género:
+Las fábricas textiles emplearon masivamente a mujeres y niños, cambiando los roles tradicionales en el hogar. Aunque inicialmente explotados, estos grupos fueron fundamentales en la formación de movimientos sindicales que exigían mejores condiciones laborales.
+4.	Acceso democratizado a textiles:
+Por otro lado, la industrialización también benefició a las clases populares, que por primera vez pudieron acceder a ropa asequible. Esto marcó un cambio en los estándares de consumo y moda, haciendo de los textiles un bien básico y no un lujo.
