@@ -76,3 +76,11 @@ El descontento causado por la mecanización llevó a movimientos como el ludismo
 Las fábricas textiles emplearon masivamente a mujeres y niños, cambiando los roles tradicionales en el hogar. Aunque inicialmente explotados, estos grupos fueron fundamentales en la formación de movimientos sindicales que exigían mejores condiciones laborales.
 4.	Acceso democratizado a textiles:
 Por otro lado, la industrialización también benefició a las clases populares, que por primera vez pudieron acceder a ropa asequible. Esto marcó un cambio en los estándares de consumo y moda, haciendo de los textiles un bien básico y no un lujo.
+
+conclusiones
+
+Los telares del siglo XIX fueron más que simples máquinas; representaron un cambio profundo en la forma en que la humanidad vivía, trabajaba y se relacionaba.
+ Su evolución tecnológica no solo transformó la industria textil, sino que también impulsó la urbanización,
+ alteró las estructuras sociales y dio origen a movimientos por los derechos laborales. Aunque los cambios trajeron consigo desafíos,
+  también allanaron el camino hacia una sociedad más interconectada y moderna. Entender el impacto de los telares en este periodo es
+   clave para apreciar el legado de la Revolución Industrial en nuestra vida contemporánea.
