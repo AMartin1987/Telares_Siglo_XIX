@@ -94,3 +94,8 @@ La industrialización textil tuvo un profundo impacto en la **estructura social 
 ![El diseñador de modas inglés Charles-Frederick-Worth, considerado el padre de la alta costura](https://fashinnovation.nyc/wp-content/uploads/2022/04/Charles-Frederick-Worth-em-seu-atelier-House-of-Worth-1858-1952-Photo-Researchgate.net_.png)
 
 *El diseñador de modas inglés Charles-Frederick-Worth, considerado el padre de la alta costura. Fuente: [Fashinnovation](https://fashinnovation.nyc/fashinnovation-industrial-revolution-fashion/)*
+
+## Conclusiones
+Los telares del siglo XIX fueron más que simples máquinas; representaron un cambio profundo en la forma en que la humanidad vivía, trabajaba y se relacionaba.
+Su evolución tecnológica no solo **transformó la industria textil**, sino que también impulsó la urbanización,
+ alteró las **estructuras sociales** y dio origen a **movimientos por los derechos laborales**. Aunque los cambios trajeron consigo desafíos, también allanaron el camino hacia una sociedad más interconectada y moderna. Entender el impacto de los telares en este periodo es clave para apreciar el legado de la Revolución Industrial en nuestra vida contemporánea.
