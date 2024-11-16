@@ -86,9 +86,11 @@ La industrialización textil tuvo un profundo impacto en la **estructura social 
     Las fábricas textiles emplearon masivamente a mujeres y niños, cambiando los roles tradicionales en el hogar. Aunque inicialmente explotados, estos grupos fueron fundamentales en la formación de **movimientos sindicales** que exigían mejores condiciones laborales.
 
 ![Grabado que ilustra las protestas de trabajadores del algodón en Londres, en 1878](https://c7.alamy.com/comp/2H0N6Y4/history-of-england-19th-century-workers-movement-workers-strikes-in-the-district-of-lancashire-the-high-cost-of-basic-necessities-the-lack-of-work-business-problems-and-some-laws-that-affected-the-poorest-classes-were-the-causes-that-provoked-strikes-of-miners-and-workers-during-the-month-of-may-1878-attack-and-burning-of-the-residence-of-colonel-rayusford-jackson-in-wilpshire-the-fire-was-caused-by-cotton-workers-during-the-cotton-riots-engraving-la-ilustracin-espaola-y-americana-1878-2H0N6Y4.jpg)
+
 *Grabado que ilustra las protestas de trabajadores del algodón en Londres, en 1878. Fuente: [Alamy](https://www.alamy.com/history-of-england-19th-century-workers-movement-workers-strikes-in-the-district-of-lancashire-the-high-cost-of-basic-necessities-the-lack-of-work-business-problems-and-some-laws-that-affected-the-poorest-classes-were-the-causes-that-provoked-strikes-of-miners-and-workers-during-the-month-of-may-1878-attack-and-burning-of-the-residence-of-colonel-rayusford-jackson-in-wilpshire-the-fire-was-caused-by-cotton-workers-during-the-cotton-riots-engraving-la-ilustracin-espaola-y-americana-1878-image447936024.html).*
 
 4.  **Acceso democratizado a textiles:**  
     Por otro lado, la industrialización también benefició a las clases populares, que por primera vez pudieron acceder a **ropa asequible**. Esto marcó un cambio en los estándares de consumo y moda, haciendo de los textiles un bien básico y no un lujo.
 ![El diseñador de modas inglés Charles-Frederick-Worth, considerado el padre de la alta costura](https://fashinnovation.nyc/wp-content/uploads/2022/04/Charles-Frederick-Worth-em-seu-atelier-House-of-Worth-1858-1952-Photo-Researchgate.net_.png)
+
 *El diseñador de modas inglés Charles-Frederick-Worth, considerado el padre de la alta costura. Fuente: [Fashinnovation](https://fashinnovation.nyc/fashinnovation-industrial-revolution-fashion/)*
