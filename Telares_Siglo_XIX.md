@@ -1,8 +1,8 @@
 # Telares del siglo XIX: Evolución tecnológica, impacto en la industria textil y cambios sociales asociados
 ![Telar de Jacquard](https://media.sciencephoto.com/image/c0107853/800wm/C0107853-Jacquard_loom,_19th_century.jpg)
-```markdown
-Telar de Jacquard. Créditos: [SCIENCE PHOTO LIBRARY](https://www.sciencephoto.com/contributor/spq/) 
-```
+
+*Telar de Jacquard. Créditos: [SCIENCE PHOTO LIBRARY](https://www.sciencephoto.com/contributor/spq/)* 
+
 ## Introducción
 
 El **siglo XIX** marcó un hito en la evolución de los **telares** y la industria textil, revolucionando no solo la
